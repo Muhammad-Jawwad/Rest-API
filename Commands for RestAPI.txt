@@ -1,0 +1,23 @@
+For pakages
+npm init -y
+
+for node modules
+npm install express
+
+npm install mysql
+
+npm install dotenv
+
+
+Command to start a surver:
+node app name
+
+Command to avoid again and refreshing:
+npm install --save-dev nodemon
+
+Command for auto restart server after nodemon
+npm start
+
+
+npm install bcrypt
+
